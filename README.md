@@ -1,5 +1,7 @@
 # MediGemma
 
+(This was a task for the selection of research interns at NUS)
+
 This paper did not have any code associated or results to reproduce. It presented a benchmark
 and further instruction prompt tuned Flan-PaLM model to create Med-PaLM.
 PaLM models are old generation closed-source models so to prove my coding proficiency, I
